@@ -1,0 +1,10 @@
+* {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 1rem;
+    box-shadow: 14px 12px 5px -1px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 14px 12px 5px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 14px 12px 5px -1px rgba(0,0,0,0.75);
+}
